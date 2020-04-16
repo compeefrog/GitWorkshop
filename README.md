@@ -1,3 +1,5 @@
 # GitWorkshop
 
-git workshop test projecty
+git workshop test project
+Bootcamp FSD Novi Hogeschool
+2020-04-17
